@@ -1,0 +1,24 @@
+Insta-Gallery V1.2
+
+(C) Ashley Johnson (ashley.gary.johnson@gmail.com) 2015
+
+License: GPL v3
+
+INSTALLATION INSTRUCTIONS
+
+Requirements:
+
+- WordPress 2.8 or higher.
+
+1. Upload instantgallery folder to your Wordpress Plugins folder.
+2. Activate the Instant Gallery in wp-admin under plugins.
+3. Go to Instant Gallery menu item
+4. Configure the plugin
+5. Your all set.
+
+*If upgrading from an older version it is advised that you deactivate the plugin first then reactivate after installation.
+
+CUSTOM PLUGINS
+
+If you would like me to create you a commercial plugin or suggest a new open source 
+plugin please email me at ashley.gary.johnson@gmail.com
